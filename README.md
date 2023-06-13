@@ -1,7 +1,7 @@
 # Blake_Patterson_Portfolio
 My data science portfolio
 
-# [Project 1: Test 1](https://github.com/Bike-Sharing-Project/bike-sharing-project-bpatter2-1) 
+# [Project 1: Test 1](https://github.com/bpatter2/Bike-Sharing-Project) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
