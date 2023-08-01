@@ -12,6 +12,6 @@ My data science portfolio
 
 
 # [Project 2: Test 2](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb).
-Spotify project
+* Spotify project
 
 ![](/images/spotify.png)
