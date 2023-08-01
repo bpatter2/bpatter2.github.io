@@ -22,7 +22,9 @@ My data science portfolio
 * Other exploratory metrics
 * Choosing the best model for predicting bike rental count
 
-![](/images/4_variation_BikeShare.png)
+![](/images/seasonwide.png)
+![](/images/monthly.png)
+
 
 # [Project 2: Test 2](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb).
 * Spotify project
