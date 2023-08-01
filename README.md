@@ -8,7 +8,7 @@ My data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/4_variation_BikeShare.png)
+![](/images/attribute.png)
 
 # [Project 2: Advanced Test Bike-Sharing](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb).
 * Exploratory Data Analysis
