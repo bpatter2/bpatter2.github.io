@@ -10,7 +10,7 @@ My data science portfolio
 
 ![](/images/4_variation_BikeShare.png)
 
-# [Project 2: Advanced Test Bike-Sharing](https://github.com/bpatter2/Bike-Sharing-Project/)
+# [Project 2: Advanced Test Bike-Sharing](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb).
 * Exploratory Data Analysis
 *   -loading dataset & library
 *   -data cleaning
