@@ -1,5 +1,5 @@
 # Blake_Patterson_Portfolio
-Data Analyst/Sciense Projects
+Data-Analyst/Data-Science Projects
 
 # [Basic Test Bike-Sharing Project: ](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb)
 * Basic variable prediction for bike sharing data
