@@ -1,7 +1,7 @@
 # Blake_Patterson_Portfolio
 Data Analyst/Sciense Projects
 
-# [Basic Test Bike-Sharing Project: ](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb).
+# [Basic Test Bike-Sharing Project: ](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb)
 * Basic variable prediction for bike sharing data
 * Train/Test
 * Linear Regression
@@ -9,7 +9,7 @@ Data Analyst/Sciense Projects
 
 ![](/images/attribute.png)
 
-# [Advanced Test Bike-Sharing Project: ](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb).
+# [Advanced Test Bike-Sharing Project: ](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb)
 * Exploratory Data Analysis
 *   -loading dataset & library
 *   -data cleaning
@@ -26,7 +26,7 @@ Data Analyst/Sciense Projects
 ![](/images/monthly.png)
 
 
-# [Spotify Project](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb).
+# [Spotify Project](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb)
 * Spotify project
 
 ![](/images/spotify.png)
