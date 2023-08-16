@@ -25,8 +25,8 @@ Data Analyst/Sciense Projects
 ![](/images/seasonwide.png)
 ![](/images/monthly.png)
 
-*
-# [Project 2: Test 2](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb).
+
+# [Spotify Project](https://github.com/bpatter2/Spotify/blob/main/spotify-project.ipynb).
 * Spotify project
 
 ![](/images/spotify.png)
