@@ -1,7 +1,7 @@
 # Blake_Patterson_Portfolio
-My data science portfolio
+Data Analyst/Sciense Projects
 
-# [Project 1: Basic Test Bike-Sharing](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb).
+# [Basic Test Bike-Sharing Project: ](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb).
 * Basic variable prediction for bike sharing data
 * Train/Test
 * Linear Regression
@@ -9,7 +9,7 @@ My data science portfolio
 
 ![](/images/attribute.png)
 
-# [Project 2: Advanced Test Bike-Sharing](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb).
+# [Advanced Test Bike-Sharing Project: ](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb).
 * Exploratory Data Analysis
 *   -loading dataset & library
 *   -data cleaning
