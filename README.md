@@ -1,14 +1,6 @@
 # Blake_Patterson_Portfolio
 Data-Analyst/Data-Science Projects
 
-# [Basic Test Bike-Sharing Project: ](https://github.com/bpatter2/Bike-Sharing-Project/blob/main/bike-sharing-project-bpatter2-1.ipynb)
-* Basic variable prediction for bike sharing data
-* Train/Test
-* Linear Regression
-* KNN, KFold, etc..
-
-![](/images/attribute.png)
-
 # [Advanced Test Bike-Sharing Project: ](https://github.com/bpatter2/advanced_bikeshare/blob/main/advanced_bike_rental_prediction.ipynb)
 * Exploratory Data Analysis
 *   -loading dataset & library
