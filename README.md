@@ -22,3 +22,8 @@ Data-Analyst/Data-Science Projects
 * Spotify project
 
 ![](/images/spotify.png)
+
+
+
+# [Airline Project](https://github.com/bpatter2/Airline/blob/main/airline-sql-data-analysis-project.ipynb)
+* Airline project
